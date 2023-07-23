@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/homeseek/static/css/main.5c078aac.css",
-    "main.js": "/homeseek/static/js/main.6046e748.js",
+    "main.js": "/homeseek/static/js/main.6b73522d.js",
     "static/js/787.8db6b18d.chunk.js": "/homeseek/static/js/787.8db6b18d.chunk.js",
     "static/media/london-home-2.jpg": "/homeseek/static/media/london-home-2.a8567ce5da5587accb70.jpg",
     "static/media/man1.png": "/homeseek/static/media/man1.61d99b39584c2fd7d67b.png",
@@ -101,11 +101,11 @@
     "static/media/logo-blue.png": "/homeseek/static/media/logo-blue.a33ba24463789fde0d02.png",
     "index.html": "/homeseek/index.html",
     "main.5c078aac.css.map": "/homeseek/static/css/main.5c078aac.css.map",
-    "main.6046e748.js.map": "/homeseek/static/js/main.6046e748.js.map",
+    "main.6b73522d.js.map": "/homeseek/static/js/main.6b73522d.js.map",
     "787.8db6b18d.chunk.js.map": "/homeseek/static/js/787.8db6b18d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c078aac.css",
-    "static/js/main.6046e748.js"
+    "static/js/main.6b73522d.js"
   ]
 }
