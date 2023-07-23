@@ -1,0 +1,26 @@
+.featured-container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.featured {
+  opacity: 0.4;
+  width: 170px;
+}
+
+.featured:nth-of-type(1) {
+  margin-left: -27px;
+}
+
+.featured:nth-of-type(4) {
+  margin-right: -29px;
+}
+
+@media only screen and (max-width: 767px) {
+  .featured-container {
+    display: none;
+  }
+}
